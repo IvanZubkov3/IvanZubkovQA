@@ -62,12 +62,3 @@ I am currently building real-world **QA projects** to showcase my skills. Each p
 
 I’m open to **collaborations, job opportunities, and networking with QA professionals**. Feel free to reach out! 😊  
 
----
-
-## 📄 How to Use This README on GitHub  
-1️⃣ **Go to your GitHub Profile**  
-2️⃣ Create a new repository named **`YOUR_GITHUB_USERNAME`** (e.g., `IvanZubkovQA`).  
-3️⃣ Add a **README.md** file and paste the above content.  
-4️⃣ Commit and push it to GitHub.  
-
-Let me know once it's set up! 🚀
