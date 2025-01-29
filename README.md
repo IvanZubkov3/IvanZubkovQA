@@ -50,7 +50,7 @@ I am currently building real-world **QA projects** to showcase my skills. Each p
 
 ## 🚀 Currently Learning  
 ✅ Performance Testing with **JMeter**  
-✅ Mobile App Testing with **Appium**  
+✅ DevOps CI/CD Integration  
 ✅ Advanced API Testing & Security Testing  
 
 ---
