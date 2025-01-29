@@ -24,7 +24,7 @@ Passionate about **test automation, DevOps, and CI/CD**, I continuously improve 
 ---
 
 ## 📌 Featured GitHub Projects  
-🔹 **[Automated UI Testing (Selenium + Python)](https://github.com/YOUR_GITHUB_USERNAME/QA-Testing-Projects)**  
+🔹 **[Automated UI Testing (Selenium + Python)](https://github.com/IvanZubkov3/UI-Automation)**  
 🔹 **[API Testing with Postman & REST Assured](https://github.com/YOUR_GITHUB_USERNAME/API-Testing)**  
 🔹 **[SQL Data Validation & Integrity Testing](https://github.com/YOUR_GITHUB_USERNAME/SQL-Testing)**  
 
