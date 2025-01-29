@@ -1,8 +1,8 @@
 # 🚀 Ivan Zubkov | QA Engineer | Automation | SQL & API Testing
 
 📍 **Staten Island, NY** | 📧 **ivan.zubkovQA@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/ivan-zubkov-0954b4206/)** | 
-🔗 **[GitHub](https://github.com/YOUR_GITHUB_USERNAME)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/ivan-zubkov-0954b4206/)** 
+
 
 ---
 
