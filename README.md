@@ -58,7 +58,7 @@ I am currently building real-world **QA projects** to showcase my skills. Each p
 ## 📫 Let's Connect!  
 🔹 **Email:** ivan.zubkovQA@gmail.com  
 🔹 **LinkedIn:** [Your LinkedIn Profile](#)  
-🔹 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
+🔹 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/IvanZubkov3/IvanZubkovQA)  
 
 I’m open to **collaborations, job opportunities, and networking with QA professionals**. Feel free to reach out! 😊  
 
